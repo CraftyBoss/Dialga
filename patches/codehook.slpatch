@@ -1,0 +1,15 @@
+[version=100, target=main]
+
+//23908A4:
+//    BL battleHook
+
+2AAF08:
+    bl tryInitSocket
+
+23ACAF4: // generate random monsNo
+    bl monsHook
+
+[version=110, target=main]
+
+245E590: // generate random monsNo
+    b monsHook

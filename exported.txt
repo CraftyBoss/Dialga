@@ -1,0 +1,14 @@
+{
+    global:
+        _Z7expHookPKN3Dpr6Battle5Logic3Exp9CalcParamEPNS2_10CalcResultE;
+        _Z10battleHookPN3Dpr6Battle5Logic10MainModuleEPi;
+        _Z13calcLevelHook6MonsNotj;
+        _Z10evolveHookPN3Pml8PokePara9CoreParamE6MonsNoj;
+        _Z8monsHookPN3Pml8PokePara8AccessorE;
+        _Z8formHookPN3Pml8PokePara8AccessorE;
+        _Z13getRandomPokev;
+        _Z21socket_log_initializev;
+        _Z13tryInitSocketv;
+        _Z3LOGPKcz;
+    local: *;
+};
